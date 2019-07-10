@@ -14,10 +14,17 @@ I could also reach out to local DC LGBTQ+ organizations like HRC, GLAA, SMYLE, N
 I can also look at student directories in major colleges across the country as well to see how many students identify as non-binary (Madi talking about a data set she collected by looking at the biggest public universities across the country. I think this could be an interesting subset of data to include add another perspective/angle that can provide depth and answers to the overall set of data.
 A table of your proposed fields, including five records
 
-|States     | Third Gender Marker Allowed | Text option | Court order? | Cost | Number of people with third marker |
-|----------:|----------------------------:|------------:|-------------:|-----:|-----------------------------------:|
-|D.C.       |                             |             |              |      |                                    |
-|California |                             |             |              |      |                                    |
-|Colorado   |                             |             |              |      |                                    |
-|           |                             |             |              |      |                                    |
-|           |                             |             |              |      |                                    |
+|States     | Third Gender Marker Allowed | Text option | Court order or form? 		  | Cost 						   | Number of people  		        |
+|----------:|----------------------------:|------------:|--------------------------------:|-------------------------------------------------------:|-----------------------------------:|
+|D.C.       | Yes			  | M, F, X     |If changing the legal name       | $48 for renewal, $20 for duplicate/changed information;| TBD				|
+|California | Yes                      	  | M, F, X     |Gender Category Request form.    | $36 Original/Renewal; $28 duplicate/name change        | TBD                                |
+|Colorado   | Yes                         | M, F, X     |Medical Information Authorization| $28 Driver License, renewal; $12 Duplicate  	   | TBD                                |
+|Oregon     | Yes                         | M, F, X     |app for orig., renew., or replace| $60 Original; $40 renewal; $26 replacement    	   | TBD                                |
+|           |                             |             |              		          |      						   | TBD                                |
+
+[Gender Category Request form (CA)](https://www.dmv.ca.gov/portal/wcm/connect/c7c90201-c72c-4a02-a519-a94581f380a8/dl329S.pdf?MOD=AJPERES&CVID=)
+[Driver License/Identification Card Application Fees (CA)](https://www.dmv.ca.gov/portal/dmv/detail/dl/fees/driverlicense_fees)
+[Medical Information Authorization](https://www.colorado.gov/pacific/sites/default/files/DR2083.pdf) 
+[DMV Fees (CO)](https://www.colorado.gov/pacific/dmv/dmv-fees) 
+[Application for an original, renewal, or replacement ID (Oregon)](application for an original, renewal, or replacement ID)
+[Driver Licensing & ID Card Fees (Oregon)](https://www.oregon.gov/ODOT/DMV/Pages/Fees/Driver.aspx)
