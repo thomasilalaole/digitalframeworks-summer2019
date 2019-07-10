@@ -1,0 +1,23 @@
+# A description of the question you're curious about, and an explanation about how this data could turn into a story. #
+I’m curious as to how many non-binary people there are in the U.S. I would like to explore how many have succesfully changed their gender marker on their driver’s liscence to X (in the 11 states where this is implemented) and what they’ve experienced. 
+This data could turn into a story simply because the conversation about gender, most recently with transgenderism has stepped into the spotlight of mainstream conversation and ideaology. This could open the door to mutltiple stories about non-binary people’s individual experiences as they struggle to solodify their identity in society. This data could potentillly unviel truths about this community that we otherwise wouldn’t know because the identity of non-binary isn’t something that’s heavily talked about yet. I’m very facinated how many non-binary people have decided not to change their gender marker out of fear or apprehension and if they did decide to change it, what they’ve experienced, either normalcy, descrimination or a mixture of both.
+Often, for transgender people they can face descrimination before, during and after they successfully change their gender marker. In some state transgender people are forced to undergo sexual reassignment surgery in order to prove their gender change. I wonder what non-binary people have to do in order to “prove” their identity, or if anyone, regardless of gender identity, can decide to change their gender marker to X. 
+
+# A list of the things you want to know about any data point. #
+I’m very facinated how many non-binary people have decided not to change their gender marker out of fear or apprehension and if they did decide to change it, what they’ve experienced, either normalcy, descrimination or a mixture of both. This could include yes or no questions, as well as a section where individuals can leave more detailed explanations. 
+Often, for transgender people they can face descrimination before, during and after they successfully change their gender marker. In some state transgender people are forced to undergo sexual reassignment surgery in order to prove their gender change. I wonder what non-binary people have to do in order to “prove” their identity, or if anyone, regardless of gender identity, can decide to change their gender marker to X. 
+This data would also explore age, race, ethnicity, socio-economi status, and more in order to cross reference any similarities or differences in the collecting. 
+
+# An explanation of how you'd go about collecting that data #
+	The way I’d go about collecting this data is referencing data pulled from major national LGBTQ+ sites such as the Human Rights Campaign, GLAAD Media, True Colors United, and more. As well as referencing data from local LGBTQ+ sites, specifically ones that are located in the 11 states where changing your gender marker to X is implemented. DC is one of those states that offer three gender identities, so I could to a data pull from DC records, Government of the District of Columbia Department of Motor Vehicles, and perhaps focus on the DC experience of non-binary people for a specific enterprise story, as a highlight of the overall data set. 
+I could also reach out to local DC LGBTQ+ organizations like HRC, GLAA, SMYLE, National Center for Transgender Equality and more to potentially find data on non-binary data. 
+I can also look at student directories in major colleges across the country as well to see how many students identify as non-binary (Madi talking about a data set she collected by looking at the biggest public universities across the country. I think this could be an interesting subset of data to include add another perspective/angle that can provide depth and answers to the overall set of data.
+A table of your proposed fields, including five records
+
+|States     | Third Gender Marker Allowed | Text option | Court order? | Cost | Number of people with third marker |
+|----------:|----------------------------:|------------:|-------------:|-----:|-----------------------------------:|
+|D.C.       |                             |             |              |      |                                    |
+|California |                             |             |              |      |                                    |
+|Colorado   |                             |             |              |      |                                    |
+|           |                             |             |              |      |                                    |
+|           |                             |             |              |      |                                    |
