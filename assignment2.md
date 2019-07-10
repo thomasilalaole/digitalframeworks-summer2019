@@ -27,7 +27,7 @@ A table of your proposed fields, including five records
 [Driver License/Identification Card Application Fees (CA)](https://www.dmv.ca.gov/portal/dmv/detail/dl/fees/driverlicense_fees)
 [Medical Information Authorization](https://www.colorado.gov/pacific/sites/default/files/DR2083.pdf) 
 [DMV Fees (CO)](https://www.colorado.gov/pacific/dmv/dmv-fees) 
-[Application for an original, renewal, or replacement ID (Oregon)](application for an original, renewal, or replacement ID)
+[Application for an original, renewal, or replacement ID (Oregon)](https://www.oregon.gov/ODOT/Forms/DMV/173fill.pdf)
 [Driver Licensing & ID Card Fees (Oregon)](https://www.oregon.gov/ODOT/DMV/Pages/Fees/Driver.aspx)
 [Gender Designation Form (Maine)](https://www1.maine.gov/sos/bmv/forms/GENDER%20DESIGNATION%20FORM.pdf)
 [OBTAINING A DRIVERS LICENSE (Maine)](https://www.maine.gov/sos/bmv/licenses/getlicense.html)
