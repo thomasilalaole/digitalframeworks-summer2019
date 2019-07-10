@@ -16,15 +16,19 @@ A table of your proposed fields, including five records
 
 |States     | Third Gender Marker Allowed | Text option | Court order or form? 		  | Cost 						   | Number of people  		        |
 |----------:|----------------------------:|------------:|--------------------------------:|-------------------------------------------------------:|-----------------------------------:|
-|D.C.       | Yes			  | M, F, X     |If changing the legal name       | $48 for renewal, $20 for duplicate/changed information;| TBD				|
+|D.C.       | Yes			  | M, F, X     |Gender Designation Form          | $48 for renewal, $20 for duplicate/changed information;| TBD				|
 |California | Yes                      	  | M, F, X     |Gender Category Request form.    | $36 Original/Renewal; $28 duplicate/name change        | TBD                                |
 |Colorado   | Yes                         | M, F, X     |Medical Information Authorization| $28 Driver License, renewal; $12 Duplicate  	   | TBD                                |
 |Oregon     | Yes                         | M, F, X     |app for orig., renew., or replace| $60 Original; $40 renewal; $26 replacement    	   | TBD                                |
-|           |                             |             |              		          |      						   | TBD                                |
+|Maine      | Yes                         | M, F, X     |Gender Designation Form          |  $35 Original; $30 renewals; $5 replacememt    	   | TBD                                |
 
+[Gender Designation Form](https://dmv.dc.gov/sites/default/files/dc/sites/dmv/publication/attachments/DC%20DMV%20Form%20Gender%20Self-Designation%20English.pdf)
 [Gender Category Request form (CA)](https://www.dmv.ca.gov/portal/wcm/connect/c7c90201-c72c-4a02-a519-a94581f380a8/dl329S.pdf?MOD=AJPERES&CVID=)
 [Driver License/Identification Card Application Fees (CA)](https://www.dmv.ca.gov/portal/dmv/detail/dl/fees/driverlicense_fees)
 [Medical Information Authorization](https://www.colorado.gov/pacific/sites/default/files/DR2083.pdf) 
 [DMV Fees (CO)](https://www.colorado.gov/pacific/dmv/dmv-fees) 
 [Application for an original, renewal, or replacement ID (Oregon)](application for an original, renewal, or replacement ID)
 [Driver Licensing & ID Card Fees (Oregon)](https://www.oregon.gov/ODOT/DMV/Pages/Fees/Driver.aspx)
+[Gender Designation Form (Maine)](https://www1.maine.gov/sos/bmv/forms/GENDER%20DESIGNATION%20FORM.pdf)
+[OBTAINING A DRIVERS LICENSE (Maine)](https://www.maine.gov/sos/bmv/licenses/getlicense.html)
+[Driver's License and Renewal (Maine)](https://www.maine.gov/online/bmv/dlr/) 
