@@ -6,6 +6,8 @@
 
 [Chicago Public Schools - School Progress Reports SY1819](https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-Reports-SY1/dw27-rash/data)
 
+[CPS Excel Spread Sheet](https://github.com/thomasilalaole/digitalframeworks-summer2019/blob/master/Chicago_Public_Schools_-_School_Progress_Reports_SY1819.csv)
+
 **Keep a data diary: write down all steps used to clean and analyze the data, including any Excel formulas. Excel formulas should be submitted using markdown language (between grave accent marks, also known as a backtick, commonly used to indicate code vs. text).**
 
 CLEANING 
