@@ -70,5 +70,7 @@ In the greater Chicago area, public schools are one of the main institutions whe
  
 **A drawing, mockup or sketch of at least one potential visualization. This can be electronic or on paper.**
 
-Screen Shot 2019-08-14 at 11.15.37 AM.png
+[image](https://github.com/thomasilalaole/digitalframeworks-summer2019/blob/master/Screen%20Shot%202019-08-14%20at%2011.15.37%20AM.png)
+
+[image]
 
