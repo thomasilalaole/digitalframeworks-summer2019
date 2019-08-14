@@ -62,6 +62,8 @@ CLEANING
 
 7. What is the intersection of supportive environment and culture climate?
 
+8. Are student misconducts a product of a school's environment and culture climate?
+
 **Write a sample headline and nut graf based on the most interesting answer among your three questions.**
 
 IN THE GREATER CHICAGO AREA, ONLY 20 PUBLIC SCHOOLS PROVE TO HAVE A SUPPORTIVE ENVIRONMET AND AN ORGANIZED CULTURE CLIMATE
